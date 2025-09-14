@@ -18,4 +18,7 @@ int mul(int a,int b)
 int main()
 {
     cout<<"welcome to calculator";
+
+    int choice;
+    cin>>choice;
 }
